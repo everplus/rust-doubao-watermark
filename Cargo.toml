@@ -1,7 +1,9 @@
 [package]
 name = "doubao-watermark"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "豆包 AI 图片去水印命令行工具"
+license = "MIT"
 
 [dependencies]
 arboard = "3.6.1"
