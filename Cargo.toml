@@ -1,0 +1,9 @@
+[package]
+name = "doubao-watermark"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arboard = "3.6.1"
+image = "0.25.9"
+viuer = { version = "0.11.0", features = ["sixel"] }
