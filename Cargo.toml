@@ -1,6 +1,6 @@
 [package]
-name = "doubao-watermark"
-version = "1.0.0"
+name = "rust-doubao-watermark"
+version = "1.0.1"
 edition = "2024"
 description = "豆包 AI 图片去水印命令行工具"
 license = "MIT"

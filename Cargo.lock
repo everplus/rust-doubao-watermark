@@ -339,15 +339,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "doubao-watermark"
-version = "1.0.0"
-dependencies = [
- "arboard",
- "image",
- "viuer",
-]
-
-[[package]]
 name = "either"
 version = "1.15.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1075,6 +1066,15 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0c6a884d2998352bb4daf0183589aec883f16a6da1f4dde84d8e2e9a5409a1ce"
 dependencies = [
  "bytemuck",
+]
+
+[[package]]
+name = "rust-doubao-watermark"
+version = "1.0.1"
+dependencies = [
+ "arboard",
+ "image",
+ "viuer",
 ]
 
 [[package]]
